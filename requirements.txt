@@ -1,0 +1,5 @@
+numpy
+PyAutoGUI
+PyGetWindow
+Pillow
+pynput
